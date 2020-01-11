@@ -5,7 +5,7 @@
 //     });
 // };
 
-import quotes from '../../components/quotes.js';
+import quotes from '../../components/quotes.json';
 
 export default (req, res) => {
     const quote = quotes[Math.floor(Math.random() * quotes.length)];
