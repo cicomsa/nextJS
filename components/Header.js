@@ -18,6 +18,15 @@ const Header = () => (
         <Link href="/fourth">
             <a style={linkStyle}>Fourth</a>
         </Link>
+        <Link href="/fifth">
+            <a style={linkStyle}>Fifth</a>
+        </Link>
+        <Link href="/sixth">
+            <a style={linkStyle}>Sixth</a>
+        </Link>
+        <Link href="/seventh">
+            <a style={linkStyle}>Seventh</a>
+        </Link>
     </div>
 )
 
