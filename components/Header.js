@@ -27,6 +27,9 @@ const Header = () => (
         <Link href="/seventh">
             <a style={linkStyle}>Seventh</a>
         </Link>
+        <Link href="/eigth">
+            <a style={linkStyle}>Eigth</a>
+        </Link>
     </div>
 )
 
